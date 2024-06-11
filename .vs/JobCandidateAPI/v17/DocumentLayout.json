@@ -3,40 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49425732-BE7B-4EE4-AAF4-E839F07C7B40}|JobCandidateAPI.Tests\\JobCandidateAPI.Tests.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi.tests\\candidatescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49425732-BE7B-4EE4-AAF4-E839F07C7B40}|JobCandidateAPI.Tests\\JobCandidateAPI.Tests.csproj|solutionrelative:jobcandidateapi.tests\\candidatescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49425732-BE7B-4EE4-AAF4-E839F07C7B40}|JobCandidateAPI.Tests\\JobCandidateAPI.Tests.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49425732-BE7B-4EE4-AAF4-E839F07C7B40}|JobCandidateAPI.Tests\\JobCandidateAPI.Tests.csproj|solutionrelative:jobcandidateapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\migrations\\20240611132655_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\migrations\\20240611132655_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\jobcandidateapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\jobcandidateapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\JobCandidateAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\JobCandidateAPI.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\jobcandidateapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\jobcandidateapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|c:\\users\\kaya\\desktop\\test task\\jobcandidateapi\\jobcandidateapi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F041512A-7CFD-45C8-B0F4-6792A50C2E59}|JobCandidateAPI\\JobCandidateAPI.csproj|solutionrelative:jobcandidateapi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\Humanizer.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\Humanizer.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Identity.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Identity.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Core.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Core.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\cs\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JobCandidateAPI\\bin\\Debug\\net8.0\\cs\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,123 +119,235 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CandidatesControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI.Tests\\CandidatesControllerTests.cs",
-              "RelativeDocumentMoniker": "JobCandidateAPI.Tests\\CandidatesControllerTests.cs",
-              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI.Tests\\CandidatesControllerTests.cs",
-              "RelativeToolTip": "JobCandidateAPI.Tests\\CandidatesControllerTests.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:37:35.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "JobCandidateAPI.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "JobCandidateAPI.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:35:58.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CandidatesController.cs",
               "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Controllers\\CandidatesController.cs",
               "RelativeDocumentMoniker": "JobCandidateAPI\\Controllers\\CandidatesController.cs",
               "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Controllers\\CandidatesController.cs",
               "RelativeToolTip": "JobCandidateAPI\\Controllers\\CandidatesController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAkwCUAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:28:18.651Z",
+              "WhenOpened": "2024-06-11T14:11:26.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240611132655_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.Designer.cs",
+              "RelativeToolTip": "JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.Designer.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:58:23.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "JobCandidateAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "JobCandidateAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "JobCandidateAPI\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:27:22.046Z",
+              "WhenOpened": "2024-06-11T13:58:21.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20240611132655_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.cs",
-              "RelativeDocumentMoniker": "JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.cs",
-              "RelativeToolTip": "JobCandidateAPI\\Migrations\\20240611132655_InitialCreate.cs",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Startup.cs",
+              "RelativeToolTip": "JobCandidateAPI\\Startup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:26:55.882Z",
+              "WhenOpened": "2024-06-11T13:58:20.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Program.cs",
               "RelativeDocumentMoniker": "JobCandidateAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Program.cs",
               "RelativeToolTip": "JobCandidateAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:24:57.388Z",
+              "WhenOpened": "2024-06-11T13:58:19.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobCandidateAPI.http",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\JobCandidateAPI.http",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\JobCandidateAPI.http",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\JobCandidateAPI.http",
+              "RelativeToolTip": "JobCandidateAPI\\JobCandidateAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-11T13:58:17.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "JobCandidateAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\appsettings.json",
-              "RelativeToolTip": "JobCandidateAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-11T13:23:52.922Z",
+              "Title": "JobCandidateAPI.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\JobCandidateAPI.csproj.user",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\JobCandidateAPI.csproj.user",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\JobCandidateAPI.csproj.user",
+              "RelativeToolTip": "JobCandidateAPI\\JobCandidateAPI.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-11T13:58:16.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "JobCandidateAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "JobCandidateAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:23:02.146Z",
+              "Title": "JobCandidateAPI",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\JobCandidateAPI.csproj",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\JobCandidateAPI.csproj",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\JobCandidateAPI.csproj",
+              "RelativeToolTip": "JobCandidateAPI\\JobCandidateAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T13:58:15.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Candidate.cs",
-              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Models\\Candidate.cs",
-              "RelativeDocumentMoniker": "JobCandidateAPI\\Models\\Candidate.cs",
-              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\Models\\Candidate.cs",
-              "RelativeToolTip": "JobCandidateAPI\\Models\\Candidate.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:21:44.313Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\appsettings.json",
+              "RelativeToolTip": "JobCandidateAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T13:58:14.5Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobCandidateAPI.pdb",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.pdb",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.pdb",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.pdb",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-06-11T13:57:59.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobCandidateAPI.exe",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.exe",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.exe",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.exe",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-06-11T13:57:54.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobCandidateAPI.dll",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.dll",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.dll",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.dll",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-06-11T13:57:53.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobCandidateAPI.deps.json",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.deps.json",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.deps.json",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.deps.json",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\JobCandidateAPI.deps.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T13:57:52.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Humanizer.dll",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\Humanizer.dll",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\Humanizer.dll",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\Humanizer.dll",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\Humanizer.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-06-11T13:57:51.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Azure.Identity.dll",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Identity.dll",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Identity.dll",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Identity.dll",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Identity.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-06-11T13:57:50.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Azure.Core.dll",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Core.dll",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Core.dll",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Core.dll",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\Azure.Core.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-06-11T13:57:49.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T13:57:48.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.Development.json",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T13:57:46.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+              "DocumentMoniker": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\cs\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+              "RelativeDocumentMoniker": "JobCandidateAPI\\bin\\Debug\\net8.0\\cs\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+              "ToolTip": "C:\\Users\\Kaya\\Desktop\\Test Task\\JobCandidateAPI\\JobCandidateAPI\\bin\\Debug\\net8.0\\cs\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+              "RelativeToolTip": "JobCandidateAPI\\bin\\Debug\\net8.0\\cs\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-06-11T13:57:24.218Z"
             }
           ]
         }

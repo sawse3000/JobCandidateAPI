@@ -134,3 +134,4 @@ C:\Users\Kaya\Desktop\Test Task\JobCandidateAPI\JobCandidateAPI\obj\Debug\net8.0
 C:\Users\Kaya\Desktop\Test Task\JobCandidateAPI\JobCandidateAPI\obj\Debug\net8.0\JobCandidateAPI.pdb
 C:\Users\Kaya\Desktop\Test Task\JobCandidateAPI\JobCandidateAPI\obj\Debug\net8.0\JobCandidateAPI.genruntimeconfig.cache
 C:\Users\Kaya\Desktop\Test Task\JobCandidateAPI\JobCandidateAPI\obj\Debug\net8.0\ref\JobCandidateAPI.dll
+C:\Users\Kaya\Desktop\Test Task\JobCandidateAPI\JobCandidateAPI\obj\Debug\net8.0\JobCandidateAPI.sourcelink.json

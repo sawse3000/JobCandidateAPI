@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using JobCandidateAPI.Data;
 using JobCandidateAPI.Models;
+using System.Threading.Tasks;
 
 namespace JobCandidateAPI.Controllers
 {
@@ -9,11 +9,11 @@ namespace JobCandidateAPI.Controllers
     [ApiController]
     public class CandidatesController : ControllerBase
     {
-        private readonly ApplicationDbContext _context;
+        private readonly ICandidateRepository _repository;
 
-        public CandidatesController(ApplicationDbContext context)
+        public CandidatesController(ICandidateRepository repository)
         {
-            _context = context;
+            _repository = repository;
         }
 
         [HttpPost]
@@ -21,26 +21,7 @@ namespace JobCandidateAPI.Controllers
         {
             if (ModelState.IsValid)
             {
-                var existingCandidate = await _context.Candidates
-                    .FirstOrDefaultAsync(c => c.Email == candidate.Email);
-                if (existingCandidate != null)
-                {
-                    existingCandidate.FirstName = candidate.FirstName;
-                    existingCandidate.LastName = candidate.LastName;
-                    existingCandidate.PhoneNumber = candidate.PhoneNumber;
-                    existingCandidate.BestCallTime = candidate.BestCallTime;
-                    existingCandidate.LinkedInUrl = candidate.LinkedInUrl;
-                    existingCandidate.GitHubUrl = candidate.GitHubUrl;
-                    existingCandidate.Comments = candidate.Comments;
-
-                    _context.Candidates.Update(existingCandidate);
-                }
-                else
-                {
-                    _context.Candidates.Add(candidate);
-                }
-
-                await _context.SaveChangesAsync();
+                await _repository.AddOrUpdateAsync(candidate);
                 return Ok(candidate);
             }
 
