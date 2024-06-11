@@ -2,15 +2,29 @@
 
 ## Overview
 
-This API facilitates the management of job candidates, using email addresses as unique identifiers. It leverages Entity Framework Core for database migrations and updates, and employs the repository pattern for streamlined data access. Note that, for simplicity, no authentication or authorization mechanisms have been implemented.
+This API is designed to manage job candidates, with email addresses serving as unique identifiers. The project uses Entity Framework Core for database migrations and updates, and follows the repository pattern for efficient data handling. Note that, for simplicity, there is no authentication or authorization implemented at this stage.
 
-## Key Assumptions
-- **Unique Identifier**: Candidates are uniquely identified by their email addresses.
-- **Database Management**: All database migrations and updates are managed using Entity Framework Core.
-- **Repository Pattern**: Given the scope of the project, a repository pattern has been implemented with one API and one class.
+## Assumptions
+- **Unique Identifier**: Email is used as the unique identifier for candidates.
+- **Database Management**: Database migrations and updates are managed using Entity Framework Core.
+- **Simplicity**: No authentication or authorization is implemented.
+- **Design Pattern**: The repository pattern is used since there is only one API and one class.
 
-## Future Enhancements
-To further improve the functionality and security of the API, consider the following enhancements:
-- **Authentication and Authorization**: Integrate robust authentication and authorization mechanisms to secure the API.
-- **Pagination**: Implement pagination to efficiently handle the retrieval of candidate data, especially as the dataset grows.
-- **Enhanced Validation**: Strengthen input validation to ensure data integrity and reliability.
+## Potential Improvements
+To enhance the API, consider the following improvements:
+- **Authentication and Authorization**: Add mechanisms for secure access control.
+- **Pagination**: Implement pagination for efficient candidate data retrieval.
+- **Input Validation**: Improve validation to ensure data integrity.
+- **Error Handling and Logging**: Add comprehensive error handling and logging.
+- **Caching**: Implement caching for frequently accessed data to improve performance.
+
+## Resources Used
+- **Stack Overflow**: For troubleshooting and finding solutions to specific issues.
+- **Microsoft Documentation**: For understanding the .NET stack and Entity Framework Core.
+
+## Time Spent
+- **Initial Setup and Project Creation**: 30 minutes
+- **Implementing Data Model and DbContext**: 1 hour
+- **Configuring Database and Migrations**: 15 minutes
+- **Implementing API Endpoint**: 30 minutes
+- **Writing Unit Tests**: 20 minutes
